@@ -1,6 +1,9 @@
 *{
     box-sizing: border-box;
 }
+h2{
+    text-align: center;
+}
 #s1
 {
     float: right;
