@@ -39,6 +39,7 @@ p
     width: 90%;
     height: 180px;
     background-color: grey;
+    overflow: auto;
 }
 p1
 {
