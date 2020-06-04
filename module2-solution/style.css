@@ -1,3 +1,14 @@
+
+#header-nav{
+    background-color: grey;
+    border-radius: 0;
+    border: 0;
+}
+
+
+.navbar-brand{
+   padding-top: 25px;
+}
 *{
     box-sizing: border-box;
 }
@@ -32,7 +43,7 @@ h2{
 }
 p
 {
-    border: 3px solid black;
+    border: 1px solid black;
     margin-left: auto;
     margin-right: auto;
 /*    padding: 20px;*/
@@ -40,17 +51,6 @@ p
     height: 180px;
     background-color: grey;
     overflow: auto;
-}
-p1
-{
-    width: 20px;
-}
-
-#p4
-{
-    width:20%;
-    border: 1px solid black;
-    background-color: blue;
 }
 
 .row
